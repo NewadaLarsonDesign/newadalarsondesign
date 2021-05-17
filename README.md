@@ -1,4 +1,4 @@
-### Hi there 👋
+### we are looking for web developers
 
 <!--
 **NewadaLarsonDesign/newadalarsondesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
